@@ -70,4 +70,4 @@ Enter the position:
 
 ## 🧑‍💻 Author
 Created by **Akshaya Raj Mullasseri;**  
-*(Tic Tac Toe Game in C — Terminal Edition)*
+*(Tic Tac Toe Game in C — Terminal)*
